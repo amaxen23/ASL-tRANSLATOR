@@ -1,0 +1,28 @@
+body
+  {
+    color: rgb(137, 237, 218);
+    background: rgb(154, 134, 245);
+  }
+  span
+  {
+    font-size: 30px;
+  }
+
+  
+
+  .heading
+  {
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+  }
+  label
+  {
+    font-size: 14px;
+    color: #6f27ce;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: rgb(253, 253, 253);
+    text-align: center;
+  }
+  
